@@ -71,6 +71,7 @@
     "react-app-alias": "^2.2.2",
     "storybook": "^6.5.16",
     "tailwindcss": "^3.3.0",
+    "tsconfig-paths-webpack-plugin": "^4.0.1",
     "webpack": "^5.77.0"
   }
 }
